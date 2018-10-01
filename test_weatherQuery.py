@@ -1,7 +1,3 @@
-#Name: Manas
-#Roll No: 2018244
-#Section: B
-#Group: 5
 
 """
 This is a testing module for a1.py file.

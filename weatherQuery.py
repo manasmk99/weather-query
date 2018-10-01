@@ -1,7 +1,3 @@
-#Name: Manas
-#Roll No: 2018244
-#Section: B
-#Group: 5
 
 """
 This module retrieves weather data from openweathermap.org and parses it to get values of the attributes.
