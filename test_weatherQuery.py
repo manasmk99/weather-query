@@ -4,13 +4,13 @@ This is a testing module for a1.py file.
 """
 
 import unittest
-from a1 import weather_response
-from a1 import has_error
-from a1 import get_temperature 
-from a1 import get_humidity
-from a1 import get_pressure
-from a1 import get_wind
-from a1 import get_sealevel
+from weatherQuery import weather_response
+from weatherQuery import has_error
+from weatherQuery import get_temperature 
+from weatherQuery import get_humidity
+from weatherQuery import get_pressure
+from weatherQuery import get_wind
+from weatherQuery import get_sealevel
 
 
 class testpoint(unittest.TestCase):
